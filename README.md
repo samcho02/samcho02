@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Sungmin 👋</h1>
 <h4 align="center">Computer Engineering (Networking, mobile, and distributed computing)</h4>
-<p align="left">Here are some of programming languages and tools I use.</p>
+<p align="left">Here are some of programming languages and tools I use!</p>
 <h4 align="left">Programming Languages</h4>
 <p align="left"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
