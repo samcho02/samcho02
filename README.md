@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sungmin 👋</h1>
-<h4 align="center">Computer Engineering Student at UIUC</h4>
+<h3 align="center">Computer Engineering Student at UIUC</h3>
 <p align="left">I specialize in Networking, mobile, and distributed computing. I am mostly interested in backend and cloud engineering. Here are some of programming languages and tools I use!</p>
 <h4 align="left">Programming Languages</h4>
 <p align="left"> 
