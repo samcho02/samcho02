@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sungmin</h1>
+<h1 align="center">Hi, I'm Sungmin</h1>
 <h4 align="center">Computer Engineering major at UIUC, interested in Backend and Cloud engineering.</h4>
 
 <h4 align="left">Programming Languages</h4>
