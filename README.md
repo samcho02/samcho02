@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sungmin</h1>
-<h3>Computer Engineering major at UIUC, interested in Backend and Cloud engineering.</h3>
+<h5>Computer Engineering major at UIUC, interested in Backend and Cloud engineering.</h5>
 <p align="left">
 </p>
 
