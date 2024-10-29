@@ -19,7 +19,7 @@
 - **Tools:** Git, VSCode, IntelliJ IDEA, Docker, Kubernetes
 
 ### 🌐 Connect With Me
-[LinkedIn]([https://www.linkedin.com/in/sungmincho0930])
+[LinkedIn](https://www.linkedin.com/in/sungmincho0930)
 
 ---
 
