@@ -24,7 +24,7 @@
 ---
 
 ### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=samcho02&show_icons=true&theme=radical)
 
 ### 💡 Fun Fact
 *In my free time, you can find me fishing or watching bushcrafting videos & F1.*
