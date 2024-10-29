@@ -11,12 +11,16 @@
 - 💡 I’m also exploring **Java Web Start (JWS)** and delving into **database configurations**.
 - 💼 Working on an idea to create **offline-friendly web storage solutions** possible using caching.
 
+---
+
 ### 🔧 Tech Stack
 - **Languages:** Java, Python, C, C++
 - **Frameworks:** Spring, Spring Boot
 - **Databases:** H2, MySQL, PostgreSQL
 - **Cloud:** Currently exploring AWS, Hadoop
 - **Tools:** Git, VSCode, IntelliJ IDEA, Docker, Kubernetes
+
+---
 
 ### 🌐 Connect With Me
 [LinkedIn](https://www.linkedin.com/in/sungmincho0930)
