@@ -26,8 +26,3 @@
 
 ### 🌐 Connect With Me
 [LinkedIn](https://www.linkedin.com/in/sungmincho0930)
-
----
-
-### 💡 Fun Fact
-*In my free time, you can find me fishing or watching bushcrafting videos & F1.*
