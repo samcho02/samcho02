@@ -20,7 +20,7 @@
 - **Cloud:** Currently exploring AWS, Hadoop
 - **Tools:** Git, VSCode, IntelliJ IDEA, Docker, Kubernetes
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samcho02&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samcho02&layout=compact&hide=jupyter%20notebook&theme=radical)
 
 ---
 
