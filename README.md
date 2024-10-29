@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Sungmin Cho!
 
-**Backend Developer | Aspiring Cloud Engineer**  
+### Backend Developer | Aspiring Cloud Engineer  
 *Passionate about crafting efficient backend systems and scalable solutions*
 
 ---
