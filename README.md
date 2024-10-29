@@ -9,7 +9,7 @@
 - 🌱 Currently mastering **Spring** and **Java** for backend development.
 - 📚 Learning **Cloud Engineering** to enhance my skills in scalable architecture.
 - 💡 I’m also exploring **Java Web Start (JWS)** and delving into **database configurations**.
-- 💼 Working on an idea to create **offline-friendly web storage solutions** possible using caching.
+- 💼 Working on an idea to create **offline-friendly web storage solutions**.
 
 ---
 
