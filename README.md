@@ -15,9 +15,9 @@
 
 ### 🔧 Tech Stack
 - **Languages:** Java, Python, C, C++
-- **Frameworks:** Spring, Spring Boot
-- **Databases:** H2, MySQL, PostgreSQL
-- **Cloud:** Currently exploring AWS, Hadoop
+- **Frameworks:** Spring
+- **Databases:** MySQL, PostgreSQL
+- **Cloud:** AWS
 - **Tools:** Git, VSCode, IntelliJ IDEA, Docker, Kubernetes
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samcho02&layout=compact&hide=jupyter%20notebook&theme=radical)
