@@ -2,7 +2,7 @@
 
 ### 🚀 About Me
 - 📚 Computer Engineering @ UIUC
-- 💼 Specializing in Networking, mobile and distributed computing.
+- 💼 Specializing in **Networking, mobile and distributed computing**.
 - 🌱 Currently studying **Spring** for backend development.
 - 💡 Working on an idea to create **offline-friendly web storage solutions**.
 
