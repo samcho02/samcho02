@@ -8,11 +8,5 @@
 
 ---
 
-### 🔧 Tech Stack
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samcho02&layout=compact&hide=jupyter%20notebook&theme=radical)
-
----
-
 ### 🌐 Connect With Me
 [LinkedIn](https://www.linkedin.com/in/sungmincho0930)
